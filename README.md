@@ -1,5 +1,5 @@
 
-[![Build status]()]
+[![Netology AHJ](https://github.com/TanyaSerkova/ajs_goblin/actions/workflows/web.yml/badge.svg)](https://github.com/TanyaSerkova/ajs_goblin/actions/workflows/web.yml)
 
 # Домашнее задание к занятию "2. DOM"
 
